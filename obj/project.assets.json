@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DUBAI STORE\\source\\repos\\ConsoleApp20\\ConsoleApp20\\ConsoleApp20.csproj",
-      "projectName": "ConsoleApp20",
-      "projectPath": "C:\\Users\\DUBAI STORE\\source\\repos\\ConsoleApp20\\ConsoleApp20\\ConsoleApp20.csproj",
+      "projectUniqueName": "C:\\Users\\DUBAI STORE\\source\\repos\\ConsoleApp19\\ConsoleApp19\\ConsoleApp19.csproj",
+      "projectName": "ConsoleApp19",
+      "projectPath": "C:\\Users\\DUBAI STORE\\source\\repos\\ConsoleApp19\\ConsoleApp19\\ConsoleApp19.csproj",
       "packagesPath": "C:\\Users\\DUBAI STORE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DUBAI STORE\\source\\repos\\ConsoleApp20\\ConsoleApp20\\obj\\",
+      "outputPath": "C:\\Users\\DUBAI STORE\\source\\repos\\ConsoleApp19\\ConsoleApp19\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DUBAI STORE\\AppData\\Roaming\\NuGet\\NuGet.Config",
